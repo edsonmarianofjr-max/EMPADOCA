@@ -1,0 +1,67 @@
+ARQUITETURA INICIAL DE UM PROJETO DE SOFTWARE
+Atue como um desenvolvedor de programação e arquiteto de software, orientando um aluno iniciante na preparação da estrutura de diretórios de um projeto de desenvolvimento de software.
+1. Contexto do projeto
+Estou desenvolvendo um projeto individual em um curso de programação. Antes de iniciar a implementação do código, preciso planejar a estrutura de pastas e arquivos que será criada no meu repositório do GitHub.
+
+Meu ambiente de desenvolvimento utilizará:
+- VS Code: editor de código e ambiente principal de desenvolvimento.
+- Google Colab: ambiente complementar para experimentos, testes e atividades com Python, quando necessário.
+- Git e GitHub: controle de versão e armazenamento do repositório.
+- Python: linguagem utilizada no backend, quando aplicável.
+- HTML, CSS e JavaScript: tecnologias utilizadas na interface web, quando aplicáveis.
+Nem todos os projetos precisarão utilizar todas essas tecnologias. A estrutura deverá ser adaptada ao objetivo real do aplicativo.
+2. Informações do meu aplicativo
+- Nome do projeto: EMPADOCA - CARDÁPIO DIGITAL.
+- Tipo de aplicativo: Cardápio digital de alimentos com carrinho de compras e finalização do pedido pelo WhatsApp
+- Problema que o aplicativo pretende resolver: Facilitar a consulta dos produtos, sabores, preços e opções de entrega ou retirada na Loja física da Empadoca, permitindo que o cliente monte seu pedido e envie as informações organizadas pelo WhatsApp.
+- Público-alvo:clientes da Empadoca que desejam comprar empadas, sucos naturais e outros produtos pelo celular ou computador, para consumo próprio, compartilhamento ou encomendas.
+  - Principais funcionalidades: Página Inicial com a marca Empadoca e apresentação dos produtos.
+- Tecnologias pretendidas: PYTHON, HTML, CSS, JAVASCRIPT, GITHUB, VSCODE E GOOGLE COLAB.
+- Nível de complexidade: iniciante.
+- Banco de dados: NENHUM
+- Tipo de aplicação: WEB, DESKTOP, API
+3. Sua tarefa
+Com base nas informações fornecidas, crie uma proposta de arquitetura inicial para o meu projeto.
+
+A estrutura deverá:
+1. Apresentar uma árvore de diretórios em ASCII, utilizando caracteres como ├──, └── e │.
+2. Ser adequada a um projeto iniciante, evitando complexidade desnecessária.
+3. Separar os arquivos de acordo com suas responsabilidades.
+4. Incluir somente as pastas e os arquivos pertinentes ao aplicativo.
+5. Identificar os arquivos que serão criados inicialmente e os que serão desenvolvidos em etapas posteriores.
+6. Considerar a utilização do VS Code, do Git e do GitHub.
+7. Explicar como o Google Colab poderá ser utilizado, caso faça sentido para o projeto, sem presumir que ele precise fazer parte da aplicação em produção.
+8. Incluir arquivos importantes de configuração e documentação, como README.md e .gitignore, quando apropriado.
+9. Evitar a inclusão de senhas, tokens, chaves de API ou outras informações confidenciais no repositório.
+10. Preparar a estrutura para futuras melhorias sem criar pastas vazias ou componentes desnecessários.
+4. Formato obrigatório da resposta
+Apresente a resposta nesta ordem:
+
+A. Visão geral: explique brevemente a arquitetura sugerida.
+
+B. Árvore de diretórios ASCII: mostre a estrutura completa em um bloco de código.
+
+C. Descrição dos diretórios e arquivos: explique a finalidade de cada pasta e dos principais arquivos.
+
+D. Arquivos iniciais: indique quais arquivos devem ser criados primeiro e quais podem esperar.
+
+E. Preparação do GitHub: explique como organizar o repositório, o README e o .gitignore.
+
+F. Preparação do VS Code: explique como abrir a pasta e iniciar o desenvolvimento.
+
+G. Uso do Google Colab: indique se ele será útil e como organizar eventuais notebooks sem misturá-los desnecessariamente com o código principal da aplicação.
+
+H. Plano de implementação: sugira uma sequência de etapas para desenvolver o projeto.
+
+I. Validação com o professor: apresente cinco perguntas que o aluno deve responder para verificar se entendeu a estrutura proposta.
+5. Regras
+- Não escreva a aplicação inteira.
+- Não gere código de funcionalidades que ainda não foram solicitadas.
+- Explique os conceitos em linguagem simples, como para alguém que está aprendendo programação.
+- Não apresente uma arquitetura complexa apenas porque ela é utilizada em grandes empresas.
+- Se faltarem informações essenciais, faça perguntas antes de definir a estrutura.
+- Diferencie arquivos obrigatórios, recomendados e opcionais.
+- Não crie diretórios sem uma finalidade clara.
+- Explique que a árvore é uma proposta inicial que poderá mudar durante o desenvolvimento.
+- Se alguma tecnologia não fizer sentido para meu projeto, justifique sua ausência.
+Ao final, apresente a árvore de diretórios recomendada e destaque quais partes precisam ser aprovadas pelo professor antes de começarmos a programar
